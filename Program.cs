@@ -3,9 +3,9 @@
 Console.WriteLine("My name is Darya.");
 
 
-class back
+class front
 {
-    public void Back()
+    public void Front()
     {
 
     }
