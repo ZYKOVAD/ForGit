@@ -27,3 +27,8 @@ class festure
 
     }
 }
+
+class five
+{
+
+}
