@@ -27,13 +27,3 @@ class festure
 
     }
 }
-
-class five
-{
-    public void five()
-    {
-        Console.WriteLine("");
-    }
-}
-
-}
