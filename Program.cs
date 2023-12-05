@@ -30,7 +30,7 @@ class festure
 
 class five
 {
-    public void five()
+    public void Five()
     {
         Console.WriteLine("");
     }
